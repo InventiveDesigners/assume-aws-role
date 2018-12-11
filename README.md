@@ -12,7 +12,7 @@ If you currently manage multiple AWS accounts and use role switching to do work 
 
 First, you need to install the tool from NPM:
 
-`npm install -g nbrys/assume-aws-role`
+`npm install -g InventiveDesigners/assume-aws-role`
 
 Next, you need to add a role that you'd like to assume. As an example, lets say I wanted to add the Administrator role for my sandbox account with MFA required:
 
